@@ -14,6 +14,9 @@ https://mushrifa-hussain.github.io/Weather-Dashboard
 - Shows a loading message while data is being fetched
 - Dynamic UI updates using React state
 
+## Screenshot
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/a60a71bc-afa0-427d-8b0f-76495dc73dbe" />
+
 ## Technologies Used
 - React
 - JavaScript
